@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3a66f48-066c-4957-b9ec-e97f1a7fc45e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/cleaned_data/all_crashes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cleaned_data/all_crashes.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cleaned_data/hume_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cleaned_data/hume_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cleaned_data/melbourne_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cleaned_data/melbourne_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cleaned_data/merged_hume_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cleaned_data/merged_hume_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cleaned_data/merged_melb_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cleaned_data/merged_melb_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cleaning crashes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cleaning crashes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/Temperature_vs_Accident_Count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/Temperature_vs_Fatal_Accidents.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/merge_weather_crashes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/merge_weather_crashes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temperature_analysis.ipynb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1yP9dX6LNG5KbTDTWJJH84PyhbZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3a66f48-066c-4957-b9ec-e97f1a7fc45e" name="Default Changelist" comment="" />
+      <created>1632142445262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632142445262</updated>
+    </task>
+    <servers />
+  </component>
+</project>
