@@ -61,7 +61,7 @@
 - Almost No correlation (r value of 0.002)
   - p-value = 0.1
 
-###Accident Count Vs Rainfall ( Arterials/Freeways in Melbourne)
+### Accident Count Vs Rainfall ( Arterials/Freeways in Melbourne)
 - Almost No correlation (r value of 0.04)
   -p-value = 0.195
 
@@ -75,9 +75,11 @@
 
 ### Temperature vs Accident Count
 - Did temperature actually correlate to accident counts? No
+
 ### Accident Count Vs Temperature (Melbourne) 
 - Almost No correlation (r value of 0.05)
   - p-value = 0.061
+
 ### Accident Count Vs Temperature ( Arterials/Freeways in Melbourne)
 - Almost No correlation (r value of 0.04)
   - p-value = 0.125
@@ -89,7 +91,7 @@
 ### Accident Count Vs Temperature ( Arterials/Freeways in Hume)
 - Almost No correlation (r value of 0.02)
   - p-value = 0.507
-
+The tests run all showed values above 0.05, suggesting that there was no correlation between the variables we test. Note: The p-value for accident count vs Temperature was 0.06, which is very close to 0.05.
 ## How to redo the analyse using out files
 - Each notebook is label as a 'step', please run them in order. The code should run smoothly if run once in order.
 - The fiures are stored as scrreen shots in the figures folder and are named appropiatley.
