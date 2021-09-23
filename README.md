@@ -110,4 +110,5 @@ The tests run all showed values above 0.05, suggesting that there was no correla
 - The cleaned data sets are stored in 'cleaned_data' (This also includes the merged data).
 - Files should not be moved.
 - In the weekends notebook (step 5), there are some user defined functions that can be used, instructions are included
-- When running step9 notebook, please copy and paste your own GoogleAPI key in the config file
+- When running step9 notebook, please copy and paste your own GoogleAPI key in the config file 
+- If for whatever reason the congfig file does not download, please create a file called 'config' and store it in the same locations as the jupyter notebooks. Then type 'gkey = "{YOUR API KEY GOES HERE}" and insert your API key within quotation marks.
