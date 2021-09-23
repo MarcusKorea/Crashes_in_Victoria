@@ -96,9 +96,9 @@
   - p-value = 0.507
 The tests run all showed values above 0.05, suggesting that there was no correlation between the variables we test. Note: The p-value for accident count vs Temperature was 0.06, which is very close to 0.05.
 ## How to redo the analyse using out files
-- Each notebook is label as a 'step', please run them in order. The code should run smoothly if run once in order.
-- The fiures are stored as scrreen shots in the figures folder and are named appropiatley.
+- Each notebook is labeled as a 'step', please run them in order. The code should run smoothly if run once in order.
+- The figures are stored as screenshots in the figures folder and are named appropiatley.
 - The raw data files are found in the folder 'raw_data'
-- The cleaned data sets are stored in 'cleaned_data' (this also includes the merged data.
+- The cleaned data sets are stored in 'cleaned_data' (This also includes the merged data).
 - Files should not be moved.
 - In the weekends notebook (step 5), there are some user defined functions that can be used, instructions are included
