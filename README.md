@@ -1,6 +1,9 @@
 # project-1
 # Does weather impact accident counts in Victoria Australia?
 ### Contributors: Ivana, Marcus, Sanuli and Tamer 
+
+### Why? 
+Want to see if we can predict the accident count using the amount of rainfall or temperature.
 ## Hypotheses
 - Expect a higher frequency of road accidents frequency in Melbourne LGA compared to other.
 - Expect an increased frequency of road accidents during weekdays.
@@ -95,6 +98,11 @@
 - Almost No correlation (r value of 0.02)
   - p-value = 0.507
 The tests run all showed values above 0.05, suggesting that there was no correlation between the variables we test. Note: The p-value for accident count vs Temperature was 0.06, which is very close to 0.05.
+
+### Conclusion for rainfaill and temperature variabels vs accident counts (looking at them seperatly)
+- Maybe a multiple linear regression (using both rainfall and temperature) can be used to help predict accident counts (or even include other vairbales). 
+
+
 ## How to redo the analyse using out files
 - Each notebook is labeled as a 'step', please run them in order. The code should run smoothly if run once in order.
 - The figures are stored as screenshots in the figures folder and are named appropiatley.
