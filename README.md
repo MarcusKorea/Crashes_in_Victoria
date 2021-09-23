@@ -11,14 +11,17 @@
 - CSV file (77,513 rows)
 - Removal of unrelated columns
 - Removal of NaN values
+- https://vicroadsopendata-vicroadsmaps.opendata.arcgis.com/
 
 ### Bureau of Meteorology 
 - CSV files (daily)
 - Concatenated dates
 - Merged rainfall + temperature
+- http://www.bom.gov.au/climate/data/ 
 
 ### Google API
  - To create a heat-map
+ - https://developers.google.com/maps
 
 ## Analysis
 - Data analysis undertaken using Jupyter Notebook with the input being the cleaned data as CSV file from previous step.
