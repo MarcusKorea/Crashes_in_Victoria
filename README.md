@@ -106,63 +106,63 @@ The tests run all showed values above 0.05, suggesting that there was no correla
 ### **Metro vs Country Accident Percentages**
 <br>
 
-![Metro vs Country Accident Percentages](/Figures/Metro_vs_Country_Accident_Percentages.png)
+![Metro vs Country Accident Percentages](figures/Metro_vs_Country_Accident_Percentages.png)
 
 ### **Accidents Per Day of Week**
 <br>
 
-![Accidents Per Day of Week](Figures/accidents_per_day_of_week.png)
+![Accidents Per Day of Week](figures/accidents_per_day_of_week.png)
 
 ### **Sunday Hourly Accidents**
 <br>
 
-![Sunday Hourly Accidents](Figures/Sunday_hourly_accidents.png)
+![Sunday Hourly Accidents](figures/Sunday_hourly_accidents.png)
 
 ### **Melbourne Rainfall vs Accident Count**
 <br>
 
-![Melbourne Rainfall vs Accident Count](Figures/Melb_Rainfall_vs_Accident_Count.png)
+![Melbourne Rainfall vs Accident Count](figures/Melb_Rainfall_vs_Accident_Count.png)
 
 ### **Melbourne Rainfall vs Accident Count (Arterials/Freeways)**
 <br>
 
-![Melbourne Rainfall vs Accident Count (Arterials/Freeways)](Figures/Melb_Rainfall_vs_Accident_Count_Arterials_Freeways.png)
+![Melbourne Rainfall vs Accident Count (Arterials/Freeways)](figures/Melb_Rainfall_vs_Accident_Count_Arterials_Freeways.png)
 
 ### **Hume Rainfall vs Accident Count**
 <br>
 
-![Hume Rainfall vs Accident Count](Figures/Hume_Rainfall_vs_Accident_Count.png)
+![Hume Rainfall vs Accident Count](figures/Hume_Rainfall_vs_Accident_Count.png)
 
 
 ### **Hume Rainfall vs Accident Count (Arterials/Freeways)**
 <br>
 
-![Hume Rainfall vs Accident Count (Arterials/Freeways)](Figures/Hume_Rainfall_vs_Accident_Count_Arterials_Freeways.png)
+![Hume Rainfall vs Accident Count (Arterials/Freeways)](figures/Hume_Rainfall_vs_Accident_Count_Arterials_Freeways.png)
 
 ### **Melbourne Rainfall vs Temperature**
 <br>
 
-![Melbourne Rainfall vs Temperature](Figures/Melb_Temperature_vs_All_roads_crashes.png)
+![Melbourne Rainfall vs Temperature](figures/Melb_Temperature_vs_All_roads_crashes.png)
 
 ### **Melbourne Rainfall vs Temperature (Arterials/Freeways)**
 <br>
 
-![Melbourne Rainfall vs Temperature (Arterials/Freeways)](Figures/Melb_Temperature_vs_Fast_roads_crashes.png)
+![Melbourne Rainfall vs Temperature (Arterials/Freeways)](figures/Melb_Temperature_vs_Fast_roads_crashes.png)
 
 ### **Hume Rainfall vs Temperature**
 <br>
 
-![Hume Rainfall vs Temperature](Figures/Hume_Temperature_vs_All_roads_crashes.png)
+![Hume Rainfall vs Temperature](figures/Hume_Temperature_vs_All_roads_crashes.png)
 
 ### **Hume Rainfall vs Temperature (Arterials/Freeways)**
 <br>
 
-![Hume Rainfall vs Temperature (Arterials/Freeways)](Figures/Hume_Temperature_vs_Fast_roads_crashes.png)
+![Hume Rainfall vs Temperature (Arterials/Freeways)](figures/Hume_Temperature_vs_Fast_roads_crashes.png)
 
 ### **Heatmap of Accidents in Melbourne**
 <br>
 
-![Accidents Per Day of Week](Figures/melbourne_heat_map.PNG)
+![Accidents Per Day of Week](figures/melbourne_heat_map.PNG)
 
 
 ## How to redo the analysis using out files
