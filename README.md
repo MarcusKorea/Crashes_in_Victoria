@@ -106,7 +106,7 @@ The tests run all showed values above 0.05, suggesting that there was no correla
 ### **Metro vs Country Accident Percentages**
 <br>
 
-![Metro vs Country Accident Percentages](Figures/Metro_vs_Country_Accident_Percentages.png)
+![Metro vs Country Accident Percentages](/Figures/Metro_vs_Country_Accident_Percentages.png)
 
 ### **Accidents Per Day of Week**
 <br>
