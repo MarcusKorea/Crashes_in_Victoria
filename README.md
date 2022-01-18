@@ -102,8 +102,70 @@ The tests run all showed values above 0.05, suggesting that there was no correla
 ### Conclusion for rainfaill and temperature variabels vs accident counts (looking at them seperatly)
 - Maybe a multiple linear regression (using both rainfall and temperature) can be used to help predict accident counts (or even include other vairbales). 
 
+## Screenshots
+### **Metro vs Country Accident Percentages**
+<br>
 
-## How to redo the analyse using out files
+![Metro vs Country Accident Percentages](Figures/Metro_vs_Country_Accident_Percentages.png)
+
+### **Accidents Per Day of Week**
+<br>
+
+![Accidents Per Day of Week](Figures/accidents_per_day_of_week.png)
+
+### **Sunday Hourly Accidents**
+<br>
+
+![Sunday Hourly Accidents](Figures/Sunday_hourly_accidents.png)
+
+### **Melbourne Rainfall vs Accident Count**
+<br>
+
+![Melbourne Rainfall vs Accident Count](Figures/Melb_Rainfall_vs_Accident_Count.png)
+
+### **Melbourne Rainfall vs Accident Count (Arterials/Freeways)**
+<br>
+
+![Melbourne Rainfall vs Accident Count (Arterials/Freeways)](Figures/Melb_Rainfall_vs_Accident_Count_Arterials_Freeways.png)
+
+### **Hume Rainfall vs Accident Count**
+<br>
+
+![Hume Rainfall vs Accident Count](Figures/Hume_Rainfall_vs_Accident_Count.png)
+
+
+### **Hume Rainfall vs Accident Count (Arterials/Freeways)**
+<br>
+
+![Hume Rainfall vs Accident Count (Arterials/Freeways)](Figures/Hume_Rainfall_vs_Accident_Count_Arterials_Freeways.png)
+
+### **Melbourne Rainfall vs Temperature**
+<br>
+
+![Melbourne Rainfall vs Temperature](Figures/Melb_Temperature_vs_All_roads_crashes.png)
+
+### **Melbourne Rainfall vs Temperature (Arterials/Freeways)**
+<br>
+
+![Melbourne Rainfall vs Temperature (Arterials/Freeways)](Figures/Melb_Temperature_vs_Fast_roads_crashes.png)
+
+### **Hume Rainfall vs Temperature**
+<br>
+
+![Hume Rainfall vs Temperature](Figures/Hume_Temperature_vs_All_roads_crashes.png)
+
+### **Hume Rainfall vs Temperature (Arterials/Freeways)**
+<br>
+
+![Hume Rainfall vs Temperature (Arterials/Freeways)](Figures/Hume_Temperature_vs_Fast_roads_crashes.png)
+
+### **Heatmap of Accidents in Melbourne**
+<br>
+
+![Accidents Per Day of Week](Figures/melbourne_heat_map.PNG)
+
+
+## How to redo the analysis using out files
 - Each notebook is labeled as a 'step', please run them in order. The code should run smoothly if run once in order.
 - The figures are stored as screenshots in the figures folder and are named appropiatley.
 - The raw data files are found in the folder 'raw_data'
